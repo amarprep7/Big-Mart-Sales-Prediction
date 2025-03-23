@@ -3,7 +3,7 @@ Big Mart Sales Prediction
 
 ├── config/  
 ├── data/  
-│   ├── raw/  
+ │   ├── raw/  
 │   └── processed/ 
 ├── docs/ 
 ├── notebooks/    
