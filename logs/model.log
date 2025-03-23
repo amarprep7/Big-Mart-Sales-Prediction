@@ -1,0 +1,6 @@
+2025-03-23 22:40:01,685 - config.logging_config - INFO - Starting sales prediction pipeline
+2025-03-23 22:41:25,155 - config.logging_config - INFO - Starting sales prediction pipeline
+2025-03-23 22:41:25,199 - models.train_model - INFO - Training model with top features selection...
+2025-03-23 22:41:31,950 - models.train_model - INFO - Mean R2 score: 0.5953 (+/- 0.0269)
+2025-03-23 22:41:32,000 - config.logging_config - INFO - Submission saved to data/processed/submission.csv
+2025-03-23 22:41:32,000 - config.logging_config - INFO - Top features: Outlet_Type, Store_Age_Size, Outlet_Establishment_Year, Item_MRP, Outlet_Identifier, Price_per_Weight
